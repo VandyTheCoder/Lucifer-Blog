@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+As you know me, I am Mr. Vandy Sodanheang or for short you can me Vandy. You can visit my official webesite to know about me. [My Web](https://vandysodanheang.info).
 
+My blog website is based on Jekyll and GitHub pages. Down below you can find the references.
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)

@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Hello World Contact Us
+You can contact me via:
+- Telegram: [@VandySodanheang](https://t.me/VandySodanheang)
+- Linkedin: [Vandy Sodanheang](www.linkedin.com/in/vandy-sodanheang)
