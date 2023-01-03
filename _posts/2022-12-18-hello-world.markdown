@@ -17,9 +17,10 @@ The first step is always the most difficult one. To write a correct syntax to pr
 Take a deep breath and enjoy the world of coding.
 
 Down below are the syntax of how to print "Hello, World".
+
 &nbsp;
 Programming Language: [Ada](https://www.adaic.org/)
-```Ada
+```ada
 with Ada.Text_IO;
 procedure Hello is
 begin
